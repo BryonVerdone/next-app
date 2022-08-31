@@ -11,12 +11,14 @@
   color: #fff;
   display: flex;
   align-items: center;
+  /* gap: 10px; */
   justify-content: center;
 }
 
 .nav ul {
+  width: 100%;
   display: flex;
-  gap: 25px;
+  gap: 10px;
   justify-content: center;
   align-items: center;
   list-style: none;
